@@ -1,43 +1,72 @@
-# Errnicraft
 
-## Установка сборки
+# ERRNICRAFT
+### Руководство по установке сборки
 
-Для установки Errnicraft потребуется Minecraft **26.1.2** и **Fabric Loader 0.20.1**.
+Добро пожаловать в **ERRNICRAFT**! Здесь находится инструкция по установке игровой сборки и ссылки на документацию проекта.
 
-### 1. Подготовка Minecraft
+---
+
+## Навигация
+
+| Раздел | Описание |
+|:---|:---|
+| [Установка сборки](#установка-сборки) | Пошаговая инструкция |
+| [Поддерживаемые лаунчеры](https://github.com/Errnick-code/Errnicraft/wiki#02--%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC%D1%8B%D0%B5-%D0%BB%D0%B0%D1%83%D0%BD%D1%87%D0%B5%D1%80%D1%8B) | Список лаунчеров и рекомендации |
+| [Правила сервера](https://github.com/Errnick-code/Errnicraft/wiki/2.-Правила) | Полные правила проекта |
+
+---
+
+# Установка сборки
+
+Для установки ERRNICRAFT потребуется Minecraft **26.1.2** и **Fabric Loader 0.20.1**.
+
+## 01 · Подготовка Minecraft
 
 1. Скачайте и установите [Fabric Loader 0.20.1](https://fabricmc.net/) для Minecraft 26.1.2.
 2. Запустите игру один раз, а затем закройте её. Это необходимо для создания всех нужных папок.
 3. Откройте папку `mods` в директории установленной версии Minecraft.
 
-### 2. Установка ClientSync
+## 02 · Установка ClientSync
 
 Скачайте следующие файлы и поместите их в папку `mods`:
 
-- [Скачать ClientSync 1.3.0](https://github.com/Errnick-code/Errnicraft/raw/refs/heads/main/clientsync-1.3.0%2B1.20-26.2.jar)
-- [Скачать Fabric API 0.155.3](https://github.com/Errnick-code/Errnicraft/raw/refs/heads/main/fabric-api-0.155.3%2B26.1.2.jar)
+| Файл | Скачать |
+|:---|:---|
+| **ClientSync 1.3.0** | [Загрузить](https://github.com/Errnick-code/Errnicraft/raw/refs/heads/main/clientsync-1.3.0%2B1.20-26.2.jar) |
+| **Fabric API 0.155.3** | [Загрузить](https://github.com/Errnick-code/Errnicraft/raw/refs/heads/main/fabric-api-0.155.3%2B26.1.2.jar) |
 
-### 3. Установка сборки
+> **Важно:** оба файла должны находиться непосредственно в папке `mods`.
+
+## 03 · Установка сборки
 
 1. Запустите Minecraft.
 2. В главном меню нажмите кнопку **ClientSync**, расположенную справа от кнопки «Сетевая игра».
 3. Подтвердите закрытие игры. После этого автоматически откроется установщик ClientSync.
 4. Введите адрес сервера сборки:
 
-   `modpack.errnicraft.ru`
+   ```text
+   modpack.errnicraft.ru
+   ```
 
 5. Нажмите **«Подключиться»**, затем **«Установить»**.
 6. Дождитесь завершения установки. Обычно процесс занимает 2–5 минут.
 7. После окончания установки нажмите **«Готово»** и снова запустите Minecraft.
 
-### 4. Готово!
+## 04 · Готово!
 
-Сборка Errnicraft установлена и готова к игре.
+<sub>✓</sub> Сборка ERRNICRAFT установлена и готова к игре.
 
 Если во время установки возникнут проблемы, обратитесь в [поддержку сообщества](https://t.me/Errnicraft_chat).
 
 ---
 
-## Документация
+# Сообщество и поддержка
 
-Дополнительная информация о проекте, игровых механиках, прогрессии, правилах и возможностях сервера доступна в [официальной Wiki Errnicraft](https://github.com/Errnick-code/Errnicraft/wiki).
+- **Telegram-чат:** [ERRNICRAFT](https://t.me/Errnicraft_chat)
+- **Telegram-канал:** [ERRNICRAFT](https://t.me/Errnicraft)
+
+Все вопросы по установке сборки, подключению и игровому процессу можно задать в официальном чате.
+
+---
+
+<sub>ERRNICRAFT · Minecraft 26.1.2 · Fabric</sub>
