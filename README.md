@@ -12,10 +12,10 @@
 
 ### 2. Установка ClientSync
 
-Скачайте следующие файлы из этого репозитория и поместите их в папку `mods`:
+Скачайте следующие файлы и поместите их в папку `mods`:
 
-- [ClientSync 1.3.0](./clientsync-1.3.0+1.20-26.2.jar)
-- [Fabric API 0.155.2](./fabric-api-0.155.2+26.1.2.jar)
+- [Скачать ClientSync 1.3.0](https://github.com/Errnick-code/Errnicraft/raw/refs/heads/main/clientsync-1.3.0%2B1.20-26.2.jar)
+- [Скачать Fabric API 0.155.3](https://github.com/Errnick-code/Errnicraft/raw/refs/heads/main/fabric-api-0.155.3%2B26.1.2.jar)
 
 ### 3. Установка сборки
 
